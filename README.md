@@ -1,4 +1,4 @@
-# flangapp_app
+# flutter
 
 A new Flutter project.
 
